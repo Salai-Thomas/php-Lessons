@@ -1,6 +1,11 @@
 <?php 
 
 //Variables
+//variable scope(day 2)
+//(i)Global Scope Variable
+//(ii)Local Scope Variable
+//(iii)Static Variable Scope
+
 $fullname = "U Kyaw Kyaw";
 $job = "devloper";
 
